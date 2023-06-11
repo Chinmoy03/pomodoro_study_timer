@@ -1,0 +1,7 @@
+Name: Chinmoy Sahoo
+
+Principle behind the code:
+The idea of the Pomodoro timer is that you work for 25 minutes and then get a 5 minute break. After the 4th 25 minute work time, you get a long break of 20 minutes.
+
+Note: If you are creating an executable file or are generally runnning the program, always make sure that the png file of
+tomato is in the same directory as the code file or executable file, or the program will not run successfully.
